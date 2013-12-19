@@ -1,5 +1,5 @@
 //
-//  MRCViewController.h
+//  MRCCollectionViewController.h
 //  MatCollection
 //
 //  Created by mathew cruz on 12/18/13.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MRCViewController : UIViewController
+@interface MRCCollectionViewController : UICollectionViewController
 
 @end

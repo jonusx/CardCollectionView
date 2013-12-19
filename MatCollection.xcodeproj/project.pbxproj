@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		24834322186338B7009A6C3D /* MRCCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 24834321186338B7009A6C3D /* MRCCell.m */; };
+		2483432518633BEE009A6C3D /* MRCLayoutAttributes.m in Sources */ = {isa = PBXBuildFile; fileRef = 2483432418633BEE009A6C3D /* MRCLayoutAttributes.m */; };
 		248EDD4818624C830024DFC5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 248EDD4718624C830024DFC5 /* Foundation.framework */; };
 		248EDD4A18624C830024DFC5 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 248EDD4918624C830024DFC5 /* CoreGraphics.framework */; };
 		248EDD4C18624C830024DFC5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 248EDD4B18624C830024DFC5 /* UIKit.framework */; };
@@ -14,13 +16,14 @@
 		248EDD5418624C830024DFC5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 248EDD5318624C830024DFC5 /* main.m */; };
 		248EDD5818624C830024DFC5 /* MRCAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 248EDD5718624C830024DFC5 /* MRCAppDelegate.m */; };
 		248EDD5B18624C830024DFC5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 248EDD5918624C830024DFC5 /* Main.storyboard */; };
-		248EDD5E18624C830024DFC5 /* MRCViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 248EDD5D18624C830024DFC5 /* MRCViewController.m */; };
 		248EDD6018624C830024DFC5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 248EDD5F18624C830024DFC5 /* Images.xcassets */; };
 		248EDD6718624C830024DFC5 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 248EDD6618624C830024DFC5 /* XCTest.framework */; };
 		248EDD6818624C830024DFC5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 248EDD4718624C830024DFC5 /* Foundation.framework */; };
 		248EDD6918624C830024DFC5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 248EDD4B18624C830024DFC5 /* UIKit.framework */; };
 		248EDD7118624C830024DFC5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 248EDD6F18624C830024DFC5 /* InfoPlist.strings */; };
 		248EDD7318624C830024DFC5 /* MatCollectionTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 248EDD7218624C830024DFC5 /* MatCollectionTests.m */; };
+		248EDD7E18624CC20024DFC5 /* MRCCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 248EDD7D18624CC20024DFC5 /* MRCCollectionViewController.m */; };
+		248EDD8118624D700024DFC5 /* MRCCardLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 248EDD8018624D700024DFC5 /* MRCCardLayout.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +37,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		24834320186338B7009A6C3D /* MRCCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MRCCell.h; sourceTree = "<group>"; };
+		24834321186338B7009A6C3D /* MRCCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MRCCell.m; sourceTree = "<group>"; };
+		2483432318633BEE009A6C3D /* MRCLayoutAttributes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MRCLayoutAttributes.h; sourceTree = "<group>"; };
+		2483432418633BEE009A6C3D /* MRCLayoutAttributes.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MRCLayoutAttributes.m; sourceTree = "<group>"; };
 		248EDD4418624C830024DFC5 /* MatCollection.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MatCollection.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		248EDD4718624C830024DFC5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		248EDD4918624C830024DFC5 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -45,14 +52,16 @@
 		248EDD5618624C830024DFC5 /* MRCAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MRCAppDelegate.h; sourceTree = "<group>"; };
 		248EDD5718624C830024DFC5 /* MRCAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MRCAppDelegate.m; sourceTree = "<group>"; };
 		248EDD5A18624C830024DFC5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		248EDD5C18624C830024DFC5 /* MRCViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MRCViewController.h; sourceTree = "<group>"; };
-		248EDD5D18624C830024DFC5 /* MRCViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MRCViewController.m; sourceTree = "<group>"; };
 		248EDD5F18624C830024DFC5 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		248EDD6518624C830024DFC5 /* MatCollectionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MatCollectionTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		248EDD6618624C830024DFC5 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		248EDD6E18624C830024DFC5 /* MatCollectionTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MatCollectionTests-Info.plist"; sourceTree = "<group>"; };
 		248EDD7018624C830024DFC5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		248EDD7218624C830024DFC5 /* MatCollectionTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MatCollectionTests.m; sourceTree = "<group>"; };
+		248EDD7C18624CC20024DFC5 /* MRCCollectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MRCCollectionViewController.h; sourceTree = "<group>"; };
+		248EDD7D18624CC20024DFC5 /* MRCCollectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MRCCollectionViewController.m; sourceTree = "<group>"; };
+		248EDD7F18624D700024DFC5 /* MRCCardLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MRCCardLayout.h; sourceTree = "<group>"; };
+		248EDD8018624D700024DFC5 /* MRCCardLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MRCCardLayout.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,8 +124,14 @@
 				248EDD5618624C830024DFC5 /* MRCAppDelegate.h */,
 				248EDD5718624C830024DFC5 /* MRCAppDelegate.m */,
 				248EDD5918624C830024DFC5 /* Main.storyboard */,
-				248EDD5C18624C830024DFC5 /* MRCViewController.h */,
-				248EDD5D18624C830024DFC5 /* MRCViewController.m */,
+				248EDD7C18624CC20024DFC5 /* MRCCollectionViewController.h */,
+				248EDD7D18624CC20024DFC5 /* MRCCollectionViewController.m */,
+				248EDD7F18624D700024DFC5 /* MRCCardLayout.h */,
+				248EDD8018624D700024DFC5 /* MRCCardLayout.m */,
+				24834320186338B7009A6C3D /* MRCCell.h */,
+				24834321186338B7009A6C3D /* MRCCell.m */,
+				2483432318633BEE009A6C3D /* MRCLayoutAttributes.h */,
+				2483432418633BEE009A6C3D /* MRCLayoutAttributes.m */,
 				248EDD5F18624C830024DFC5 /* Images.xcassets */,
 				248EDD4E18624C830024DFC5 /* Supporting Files */,
 			);
@@ -250,9 +265,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				248EDD8118624D700024DFC5 /* MRCCardLayout.m in Sources */,
 				248EDD5418624C830024DFC5 /* main.m in Sources */,
+				248EDD7E18624CC20024DFC5 /* MRCCollectionViewController.m in Sources */,
 				248EDD5818624C830024DFC5 /* MRCAppDelegate.m in Sources */,
-				248EDD5E18624C830024DFC5 /* MRCViewController.m in Sources */,
+				24834322186338B7009A6C3D /* MRCCell.m in Sources */,
+				2483432518633BEE009A6C3D /* MRCLayoutAttributes.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -461,6 +479,7 @@
 				248EDD7818624C830024DFC5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		248EDD7918624C830024DFC5 /* Build configuration list for PBXNativeTarget "MatCollectionTests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +488,7 @@
 				248EDD7B18624C830024DFC5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
