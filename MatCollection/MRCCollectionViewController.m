@@ -50,10 +50,18 @@
 {
 	MRCCell *theCell = [self.collectionView dequeueReusableCellWithReuseIdentifier:@"cell" forIndexPath:indexPath];
     
-    theCell.junkLabel.text = [NSString stringWithFormat:@"%i", indexPath.row];
+    theCell.junkLabel.text = [NSString stringWithFormat:@"%ld", (long)indexPath.row];
 	theCell.backgroundColor = (indexPath.row % 2) ? [UIColor redColor] : [UIColor whiteColor];
     
 	return theCell ;
 }
+
+- (UICollectionViewTransitionLayout *)collectionView:(UICollectionView *)collectionView transitionLayoutForOldLayout:(UICollectionViewLayout *)fromLayout newLayout:(UICollectionViewLayout *)toLayout
+{
+    NSLog(@"%@", fromLayout);
+    return nil;
+}
+
+
 
 @end
