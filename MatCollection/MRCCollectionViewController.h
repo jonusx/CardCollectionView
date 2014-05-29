@@ -9,5 +9,5 @@
 #import <UIKit/UIKit.h>
 
 @interface MRCCollectionViewController : UICollectionViewController
-
+@property (nonatomic, strong) NSString *searchTerm;
 @end

@@ -24,6 +24,22 @@
 		248EDD7318624C830024DFC5 /* MatCollectionTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 248EDD7218624C830024DFC5 /* MatCollectionTests.m */; };
 		248EDD7E18624CC20024DFC5 /* MRCCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 248EDD7D18624CC20024DFC5 /* MRCCollectionViewController.m */; };
 		248EDD8118624D700024DFC5 /* MRCCardLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 248EDD8018624D700024DFC5 /* MRCCardLayout.m */; };
+		A7CA5F531937A52A000A50BF /* testreqs in Resources */ = {isa = PBXBuildFile; fileRef = A7CA5F521937A52A000A50BF /* testreqs */; };
+		A7CA5F551937A7EC000A50BF /* mockResults.json in Resources */ = {isa = PBXBuildFile; fileRef = A7CA5F541937A7EC000A50BF /* mockResults.json */; };
+		A7CA5F581937A97B000A50BF /* MRCSpotifyAPI.m in Sources */ = {isa = PBXBuildFile; fileRef = A7CA5F571937A97B000A50BF /* MRCSpotifyAPI.m */; };
+		A7CA5F591937A97B000A50BF /* MRCSpotifyAPI.m in Sources */ = {isa = PBXBuildFile; fileRef = A7CA5F571937A97B000A50BF /* MRCSpotifyAPI.m */; };
+		A7CA5F5B1937B371000A50BF /* MRCCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 248EDD7D18624CC20024DFC5 /* MRCCollectionViewController.m */; };
+		A7CA5F5C1937B37E000A50BF /* MRCAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 248EDD5718624C830024DFC5 /* MRCAppDelegate.m */; };
+		A7CA5F5D1937B37E000A50BF /* MRCCardLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 248EDD8018624D700024DFC5 /* MRCCardLayout.m */; };
+		A7CA5F5E1937B37E000A50BF /* MRCCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 24834321186338B7009A6C3D /* MRCCell.m */; };
+		A7CA5F5F1937B37E000A50BF /* MRCLayoutAttributes.m in Sources */ = {isa = PBXBuildFile; fileRef = 2483432418633BEE009A6C3D /* MRCLayoutAttributes.m */; };
+		A7CA5F601937B3E0000A50BF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 248EDD5918624C830024DFC5 /* Main.storyboard */; };
+		A7CA5F631937E458000A50BF /* MRCSearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7CA5F621937E458000A50BF /* MRCSearchViewController.m */; };
+		A7CA5F641937E458000A50BF /* MRCSearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A7CA5F621937E458000A50BF /* MRCSearchViewController.m */; };
+		A7CA5F661937E5A5000A50BF /* MRCSearchViewControllerTest.m in Sources */ = {isa = PBXBuildFile; fileRef = A7CA5F651937E5A5000A50BF /* MRCSearchViewControllerTest.m */; };
+		A7CA5F691937EEC2000A50BF /* MRCSpotifyAlbum.m in Sources */ = {isa = PBXBuildFile; fileRef = A7CA5F681937EEC1000A50BF /* MRCSpotifyAlbum.m */; };
+		A7CA5F6A1937EEC7000A50BF /* MRCSpotifyAlbum.m in Sources */ = {isa = PBXBuildFile; fileRef = A7CA5F681937EEC1000A50BF /* MRCSpotifyAlbum.m */; };
+		A7CA5F6D1937F02A000A50BF /* MRCAlbumModelTest.m in Sources */ = {isa = PBXBuildFile; fileRef = A7CA5F6C1937F02A000A50BF /* MRCAlbumModelTest.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +78,16 @@
 		248EDD7D18624CC20024DFC5 /* MRCCollectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MRCCollectionViewController.m; sourceTree = "<group>"; };
 		248EDD7F18624D700024DFC5 /* MRCCardLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MRCCardLayout.h; sourceTree = "<group>"; };
 		248EDD8018624D700024DFC5 /* MRCCardLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MRCCardLayout.m; sourceTree = "<group>"; };
+		A7CA5F521937A52A000A50BF /* testreqs */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = testreqs; sourceTree = "<group>"; };
+		A7CA5F541937A7EC000A50BF /* mockResults.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = mockResults.json; sourceTree = "<group>"; };
+		A7CA5F561937A97B000A50BF /* MRCSpotifyAPI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MRCSpotifyAPI.h; sourceTree = "<group>"; };
+		A7CA5F571937A97B000A50BF /* MRCSpotifyAPI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MRCSpotifyAPI.m; sourceTree = "<group>"; };
+		A7CA5F611937E458000A50BF /* MRCSearchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MRCSearchViewController.h; sourceTree = "<group>"; };
+		A7CA5F621937E458000A50BF /* MRCSearchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MRCSearchViewController.m; sourceTree = "<group>"; };
+		A7CA5F651937E5A5000A50BF /* MRCSearchViewControllerTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MRCSearchViewControllerTest.m; sourceTree = "<group>"; };
+		A7CA5F671937EEC1000A50BF /* MRCSpotifyAlbum.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MRCSpotifyAlbum.h; sourceTree = "<group>"; };
+		A7CA5F681937EEC1000A50BF /* MRCSpotifyAlbum.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MRCSpotifyAlbum.m; sourceTree = "<group>"; };
+		A7CA5F6C1937F02A000A50BF /* MRCAlbumModelTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MRCAlbumModelTest.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,14 +150,13 @@
 				248EDD5618624C830024DFC5 /* MRCAppDelegate.h */,
 				248EDD5718624C830024DFC5 /* MRCAppDelegate.m */,
 				248EDD5918624C830024DFC5 /* Main.storyboard */,
-				248EDD7C18624CC20024DFC5 /* MRCCollectionViewController.h */,
-				248EDD7D18624CC20024DFC5 /* MRCCollectionViewController.m */,
-				248EDD7F18624D700024DFC5 /* MRCCardLayout.h */,
-				248EDD8018624D700024DFC5 /* MRCCardLayout.m */,
-				24834320186338B7009A6C3D /* MRCCell.h */,
-				24834321186338B7009A6C3D /* MRCCell.m */,
-				2483432318633BEE009A6C3D /* MRCLayoutAttributes.h */,
-				2483432418633BEE009A6C3D /* MRCLayoutAttributes.m */,
+				A7CA5F561937A97B000A50BF /* MRCSpotifyAPI.h */,
+				A7CA5F571937A97B000A50BF /* MRCSpotifyAPI.m */,
+				A7CA5F671937EEC1000A50BF /* MRCSpotifyAlbum.h */,
+				A7CA5F681937EEC1000A50BF /* MRCSpotifyAlbum.m */,
+				A7CA5F611937E458000A50BF /* MRCSearchViewController.h */,
+				A7CA5F621937E458000A50BF /* MRCSearchViewController.m */,
+				A7CA5F511937A4B1000A50BF /* Layout */,
 				248EDD5F18624C830024DFC5 /* Images.xcassets */,
 				248EDD4E18624C830024DFC5 /* Supporting Files */,
 			);
@@ -153,6 +178,10 @@
 			isa = PBXGroup;
 			children = (
 				248EDD7218624C830024DFC5 /* MatCollectionTests.m */,
+				A7CA5F651937E5A5000A50BF /* MRCSearchViewControllerTest.m */,
+				A7CA5F6C1937F02A000A50BF /* MRCAlbumModelTest.m */,
+				A7CA5F521937A52A000A50BF /* testreqs */,
+				A7CA5F541937A7EC000A50BF /* mockResults.json */,
 				248EDD6D18624C830024DFC5 /* Supporting Files */,
 			);
 			path = MatCollectionTests;
@@ -165,6 +194,21 @@
 				248EDD6F18624C830024DFC5 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A7CA5F511937A4B1000A50BF /* Layout */ = {
+			isa = PBXGroup;
+			children = (
+				248EDD7C18624CC20024DFC5 /* MRCCollectionViewController.h */,
+				248EDD7D18624CC20024DFC5 /* MRCCollectionViewController.m */,
+				248EDD7F18624D700024DFC5 /* MRCCardLayout.h */,
+				248EDD8018624D700024DFC5 /* MRCCardLayout.m */,
+				24834320186338B7009A6C3D /* MRCCell.h */,
+				24834321186338B7009A6C3D /* MRCCell.m */,
+				2483432318633BEE009A6C3D /* MRCLayoutAttributes.h */,
+				2483432418633BEE009A6C3D /* MRCLayoutAttributes.m */,
+			);
+			name = Layout;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -254,7 +298,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A7CA5F551937A7EC000A50BF /* mockResults.json in Resources */,
 				248EDD7118624C830024DFC5 /* InfoPlist.strings in Resources */,
+				A7CA5F531937A52A000A50BF /* testreqs in Resources */,
+				A7CA5F601937B3E0000A50BF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,9 +314,12 @@
 			files = (
 				248EDD8118624D700024DFC5 /* MRCCardLayout.m in Sources */,
 				248EDD5418624C830024DFC5 /* main.m in Sources */,
+				A7CA5F581937A97B000A50BF /* MRCSpotifyAPI.m in Sources */,
+				A7CA5F631937E458000A50BF /* MRCSearchViewController.m in Sources */,
 				248EDD7E18624CC20024DFC5 /* MRCCollectionViewController.m in Sources */,
 				248EDD5818624C830024DFC5 /* MRCAppDelegate.m in Sources */,
 				24834322186338B7009A6C3D /* MRCCell.m in Sources */,
+				A7CA5F691937EEC2000A50BF /* MRCSpotifyAlbum.m in Sources */,
 				2483432518633BEE009A6C3D /* MRCLayoutAttributes.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -278,7 +328,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A7CA5F5D1937B37E000A50BF /* MRCCardLayout.m in Sources */,
+				A7CA5F591937A97B000A50BF /* MRCSpotifyAPI.m in Sources */,
+				A7CA5F5C1937B37E000A50BF /* MRCAppDelegate.m in Sources */,
+				A7CA5F6A1937EEC7000A50BF /* MRCSpotifyAlbum.m in Sources */,
+				A7CA5F641937E458000A50BF /* MRCSearchViewController.m in Sources */,
 				248EDD7318624C830024DFC5 /* MatCollectionTests.m in Sources */,
+				A7CA5F5E1937B37E000A50BF /* MRCCell.m in Sources */,
+				A7CA5F6D1937F02A000A50BF /* MRCAlbumModelTest.m in Sources */,
+				A7CA5F5B1937B371000A50BF /* MRCCollectionViewController.m in Sources */,
+				A7CA5F5F1937B37E000A50BF /* MRCLayoutAttributes.m in Sources */,
+				A7CA5F661937E5A5000A50BF /* MRCSearchViewControllerTest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

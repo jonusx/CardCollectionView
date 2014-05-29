@@ -1,0 +1,1991 @@
+{
+    "info": {
+        "num_results": 193,
+        "limit": 100,
+        "offset": 0,
+        "query": "metallica",
+        "type": "album",
+        "page": 1
+    },
+    "albums": [
+               {
+               "name": "Metallica",
+               "popularity": "0.86",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "093624986553"
+                                }
+                                ],
+               "href": "spotify:album:37lWyRxkf3wQHCOlXM5WfX",
+               "artists": [
+                           {
+                           "href": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+                           "name": "Metallica"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Garage, Inc.",
+               "popularity": "0.77",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "075596229968"
+                                }
+                                ],
+               "href": "spotify:album:4qDiQwJ7UEuJsGLWL078nQ",
+               "artists": [
+                           {
+                           "href": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+                           "name": "Metallica"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Master Of Puppets",
+               "popularity": "0.77",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "093624986577"
+                                }
+                                ],
+               "href": "spotify:album:41bTjcSaiEe4G40RVVHbux",
+               "artists": [
+                           {
+                           "href": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+                           "name": "Metallica"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Ride The Lightning",
+               "popularity": "0.77",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "093624986584"
+                                }
+                                ],
+               "href": "spotify:album:7a1dlwArQK6OCHkr2SNlZR",
+               "artists": [
+                           {
+                           "href": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+                           "name": "Metallica"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Metallica Through The Never (Music from the Motion Picture)",
+               "popularity": "0.74",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "0856115004828"
+                                }
+                                ],
+               "href": "spotify:album:72grIwGP38Iy2S1jxt1Gjd",
+               "artists": [
+                           {
+                           "href": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+                           "name": "Metallica"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "...And Justice For All",
+               "popularity": "0.76",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "093624986560"
+                                }
+                                ],
+               "href": "spotify:album:69oeRoYEpSsNPGVuYRxfoB",
+               "artists": [
+                           {
+                           "href": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+                           "name": "Metallica"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Death Magnetic",
+               "popularity": "0.73",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "093624981565"
+                                }
+                                ],
+               "href": "spotify:album:3wAdN3V06Btox7NjFfBKRC",
+               "artists": [
+                           {
+                           "href": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+                           "name": "Metallica"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "S&M",
+               "popularity": "0.72",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "075596246361"
+                                }
+                                ],
+               "href": "spotify:album:7HcHPb1P9mubh0vyDdawAv",
+               "artists": [
+                           {
+                           "href": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+                           "name": "Metallica"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Reload",
+               "popularity": "0.71",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "093624986539"
+                                }
+                                ],
+               "href": "spotify:album:73E6u02YIL3dK6UConUUv4",
+               "artists": [
+                           {
+                           "href": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+                           "name": "Metallica"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Kill 'Em All",
+               "popularity": "0.71",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "093624986591"
+                                }
+                                ],
+               "href": "spotify:album:6FMPDVTm8l5IrEQla46VQl",
+               "artists": [
+                           {
+                           "href": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+                           "name": "Metallica"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Load",
+               "popularity": "0.7",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "093624986546"
+                                }
+                                ],
+               "href": "spotify:album:2MD9zkmkFbrVyWy23nnAZQ",
+               "artists": [
+                           {
+                           "href": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+                           "name": "Metallica"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "St. Anger",
+               "popularity": "0.67",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "075596285360"
+                                }
+                                ],
+               "href": "spotify:album:4kwN2OnnrwY2ZBcm379Ahn",
+               "artists": [
+                           {
+                           "href": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+                           "name": "Metallica"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "artists": [
+                           {
+                           "href": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+                           "name": "Metallica"
+                           }
+                           ],
+               "href": "spotify:album:7FuyO1gYK3Suc3E1cbR2x3",
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               },
+               "name": "Live Shit: Binge & Purge",
+               "popularity": "0.64"
+               },
+               {
+               "name": "Some Kind Of Monster EP",
+               "popularity": "0.58",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "093624986508"
+                                }
+                                ],
+               "href": "spotify:album:7Gv5QjgYP04LqYSEJ0anJS",
+               "artists": [
+                           {
+                           "href": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+                           "name": "Metallica"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "I Disappear",
+               "popularity": "0.53",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "054391562166"
+                                }
+                                ],
+               "href": "spotify:album:6IRGHFs8fyv2yc3JZzrOaU",
+               "artists": [
+                           {
+                           "href": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+                           "name": "Metallica"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Beyond Magnetic",
+               "popularity": "0.53",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "093624952336"
+                                }
+                                ],
+               "href": "spotify:album:3IWzbpvKwYDXSJc5TIFsLW",
+               "artists": [
+                           {
+                           "href": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+                           "name": "Metallica"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "A Salute To Metallica",
+               "popularity": "0.54",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "884385004743"
+                                }
+                                ],
+               "href": "spotify:album:5gEWriWwwjuxvpQbE92FDD",
+               "artists": [
+                           {
+                           "name": "Various Artists"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Plays Metallica By Four Cellos",
+               "popularity": "0.5",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "00731453270725"
+                                }
+                                ],
+               "href": "spotify:album:7EDmG2by0SL54joEfnmN0O",
+               "artists": [
+                           {
+                           "href": "spotify:artist:4Lm0pUvmisUHMdoky5ch2I",
+                           "name": "Apocalyptica"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+               }
+               },
+               {
+               "name": "Plays Metallica By Four Cellos",
+               "popularity": "0.49",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "00731453270725"
+                                }
+                                ],
+               "href": "spotify:album:6CUz2pnEDEPPIJUGSBOm38",
+               "artists": [
+                           {
+                           "href": "spotify:artist:4Lm0pUvmisUHMdoky5ch2I",
+                           "name": "Apocalyptica"
+                           }
+                           ],
+               "availability": {
+               "territories": "MX US"
+               }
+               },
+               {
+               "name": "Lullaby Renditions of Metallica",
+               "popularity": "0.45",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "027297960022"
+                                }
+                                ],
+               "href": "spotify:album:0VIdUzsOKA5u24DbTOwAv9",
+               "artists": [
+                           {
+                           "href": "spotify:artist:5bHjVR4F2Tfq4Ha6x7K6wU",
+                           "name": "Rockabye Baby!"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Lullaby Versions of Metallica",
+               "popularity": "0.37",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "881034761231"
+                                }
+                                ],
+               "href": "spotify:album:0X1eis4azzVcl6NhgMkOdU",
+               "artists": [
+                           {
+                           "href": "spotify:artist:3mGCLimuzOdod4Lnegny4d",
+                           "name": "Twinkle Twinkle Little Rock Star"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Six Feet Down Under Part 2",
+               "popularity": "0.32",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "856115004392"
+                                }
+                                ],
+               "href": "spotify:album:0fkkhhzBRAMxdi0No0FDST",
+               "artists": [
+                           {
+                           "href": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+                           "name": "Metallica"
+                           }
+                           ],
+               "availability": {
+               "territories": "AU NZ"
+               }
+               },
+               {
+               "name": "Metallica Para Bebes",
+               "popularity": "0.35",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "886788433779"
+                                }
+                                ],
+               "href": "spotify:album:1iIeZeusb8PtfVRvmCXfUk",
+               "artists": [
+                           {
+                           "href": "spotify:artist:7HBA3bLuJTLRvjK8NX9ZSy",
+                           "name": "Sweet Little Band"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Six Feet Down Under",
+               "popularity": "0.27",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "856115004385"
+                                }
+                                ],
+               "href": "spotify:album:6la6SJkacg0gHKQXL0lwPO",
+               "artists": [
+                           {
+                           "href": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+                           "name": "Metallica"
+                           }
+                           ],
+               "availability": {
+               "territories": "AU NZ"
+               }
+               },
+               {
+               "name": "Metallica - Chill Out",
+               "popularity": "0.27",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "884385919528"
+                                }
+                                ],
+               "href": "spotify:album:4WjBdjie0U4tj0okv1nbfh",
+               "artists": [
+                           {
+                           "href": "spotify:artist:0dJ4EXAj8j47TP3U47T4Sj",
+                           "name": "Studio Allstars"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Babies Go Metallica",
+               "popularity": "0.23",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "886788062375"
+                                }
+                                ],
+               "href": "spotify:album:0gUCLPx09I936uXYcAyjLG",
+               "artists": [
+                           {
+                           "href": "spotify:artist:7HBA3bLuJTLRvjK8NX9ZSy",
+                           "name": "Sweet Little Band"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Yoga To Metallica",
+               "popularity": "0.23",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "881034776792"
+                                }
+                                ],
+               "href": "spotify:album:7rduNLuNNtdFVCjCK9oNUA",
+               "artists": [
+                           {
+                           "href": "spotify:artist:1SZgMfFtwQRTKIGXP2GhW4",
+                           "name": "Yoga Pop Ups"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Metallica",
+               "popularity": "0.07",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "5051813227158"
+                                }
+                                ],
+               "href": "spotify:album:1sRzG4x3O6A48ZjYcWcIP7",
+               "artists": [
+                           {
+                           "href": "spotify:artist:5pwiS1Ux8R6IMmoF0THylH",
+                           "name": "Subliminal Music Archives"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Metallica Para Bebês",
+               "popularity": "0.14",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "886788433793"
+                                }
+                                ],
+               "href": "spotify:album:4EnvEeJIU2LBb9gxkKsq9q",
+               "artists": [
+                           {
+                           "href": "spotify:artist:7HBA3bLuJTLRvjK8NX9ZSy",
+                           "name": "Sweet Little Band"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Play Guitar with the Music of Metallica",
+               "popularity": "0.2",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "9780711946361"
+                                }
+                                ],
+               "href": "spotify:album:4bk3jSs2Vs0FYJNZQyOaq9",
+               "artists": [
+                           {
+                           "href": "spotify:artist:2g3lXz8vcQk38ofbiJzDiZ",
+                           "name": "The Backing Tracks"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Play Guitar With Metallica 2",
+               "popularity": "0.18",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "9780711978195"
+                                }
+                                ],
+               "href": "spotify:album:52Tt9IDYRpUqA0Gi6Bqgle",
+               "artists": [
+                           {
+                           "href": "spotify:artist:2g3lXz8vcQk38ofbiJzDiZ",
+                           "name": "The Backing Tracks"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Metallica Per I Bambini",
+               "popularity": "0.09",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "886788433786"
+                                }
+                                ],
+               "href": "spotify:album:6moBxlNJz6WVw221nN9kzo",
+               "artists": [
+                           {
+                           "href": "spotify:artist:7HBA3bLuJTLRvjK8NX9ZSy",
+                           "name": "Sweet Little Band"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Armed And Ready [As Featured In Guitar Hero: Metallica]",
+               "popularity": "0.17",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "5099996490655"
+                                }
+                                ],
+               "href": "spotify:album:6VyF56bdfh9eDepleIAxrD",
+               "artists": [
+                           {
+                           "href": "spotify:artist:5uSY4FF3dZMCVSkZslKCHi",
+                           "name": "Michael Schenker Group"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Onslaughter Perform the Hits of Metallica",
+               "popularity": "0.04",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "888831073260"
+                                }
+                                ],
+               "href": "spotify:album:3eSqU5TxAjeqDWl9oBjATD",
+               "artists": [
+                           {
+                           "href": "spotify:artist:7mv8Tq0FxCf3uaA5Qs6ziT",
+                           "name": "On-Slaughter"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Can You Rock?: Sing and Play the Songs of Metallica",
+               "popularity": "0.13",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "027297947825"
+                                }
+                                ],
+               "href": "spotify:album:0WQmBTcHu10sw9NUMvEiuy",
+               "artists": [
+                           {
+                           "href": "spotify:artist:2qJYnkJ2pL87pyJW4iTmOa",
+                           "name": "Can You Rock?"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Thrash Trauer & Triumphe - Metallica Teil 1",
+               "popularity": "0.05",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "4046661080223"
+                                }
+                                ],
+               "href": "spotify:album:24MRIgygmXaV3xy1PWUWZX",
+               "artists": [
+                           {
+                           "href": "spotify:artist:79cRkRiOlWqcYqKpJnvoYM",
+                           "name": "Michael Rensen"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Durch Die Hölle Und Zurück - Metallica Teil 2",
+               "popularity": "0.03",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "4046661080322"
+                                }
+                                ],
+               "href": "spotify:album:69OuxrN4Kr4yW0ZwYZ7gxu",
+               "artists": [
+                           {
+                           "href": "spotify:artist:79cRkRiOlWqcYqKpJnvoYM",
+                           "name": "Michael Rensen"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "I want to record album with Metallica and old breakbeat style elements",
+               "popularity": "0.01",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "5051813623172"
+                                }
+                                ],
+               "href": "spotify:album:2nAmazWNOGwqQZ7L2Lq72r",
+               "artists": [
+                           {
+                           "href": "spotify:artist:20heU8nsu0J8DiBgK1gYGg",
+                           "name": "Zippy Kid"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Lord, Please Help Me To Record Album With Metallica",
+               "popularity": "0",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "5051813271229"
+                                }
+                                ],
+               "href": "spotify:album:787LUZOPFvSY0j2RwOw3gK",
+               "artists": [
+                           {
+                           "href": "spotify:artist:20heU8nsu0J8DiBgK1gYGg",
+                           "name": "Zippy Kid"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Matenlos a todos (Kill 'em all): Tribute to Metallica",
+               "popularity": "0.13",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "045635732537"
+                                }
+                                ],
+               "href": "spotify:album:1IlP2k3KGVrDWOnhjtd8ZG",
+               "artists": [
+                           {
+                           "name": "Various Artists"
+                           }
+                           ],
+               "availability": {
+               "territories": "MX US"
+               }
+               },
+               {
+               "name": "Vitamin String Quartet Performs Metallica's My Apocalypse and Cyanide",
+               "popularity": "0.13",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "027297134928"
+                                }
+                                ],
+               "href": "spotify:album:0MXsigQNfRA6cFCOv1ASPz",
+               "artists": [
+                           {
+                           "href": "spotify:artist:6MERXsiRbur2oJZFgYRDKz",
+                           "name": "Vitamin String Quartet"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Metallica The Ultimate Tribute Album",
+               "popularity": "0.52",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "825005170028"
+                                }
+                                ],
+               "href": "spotify:album:1qHYDCdXhVzhmvefHgo7FO",
+               "artists": [
+                           {
+                           "href": "spotify:artist:4fWtUq7gv4P4rU9CGeOuyY",
+                           "name": "Various Artists - Metallic Attack"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "An Instrumental Tribute To Metallica",
+               "popularity": "0.51",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "829410677967"
+                                }
+                                ],
+               "href": "spotify:album:3DlCwOaEWIENgrkuAtShle",
+               "artists": [
+                           {
+                           "name": "Various Artists"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Fade To Bluegrass: The Bluegrass Tribute To Metallica",
+               "popularity": "0.49",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "027297840126"
+                                }
+                                ],
+               "href": "spotify:album:4z8QBQBG513nlZrgDWsuqg",
+               "artists": [
+                           {
+                           "href": "spotify:artist:6AEIKVwB27miPI3uJxM4Dw",
+                           "name": "Pickin' On Series"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Pianotarium - Piano Tribute To Metallica",
+               "popularity": "0.42",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "691045823428"
+                                }
+                                ],
+               "href": "spotify:album:7gJ8uxsTcwCXCRliCBCSug",
+               "artists": [
+                           {
+                           "href": "spotify:artist:7KIUniWu3TCqv4qjg33Hgh",
+                           "name": "Scott D. Davis"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "A Tribute To Metallica & Def Leppard",
+               "popularity": "0.38",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "669910810958"
+                                }
+                                ],
+               "href": "spotify:album:5flUHH1QBhOVcKiY9pnLFh",
+               "artists": [
+                           {
+                           "href": "spotify:artist:2HcpPno2Aejd2XpN0nDxV9",
+                           "name": "Studio 99"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "A Tribute To Metallica",
+               "popularity": "0.32",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "803341164826"
+                                }
+                                ],
+               "href": "spotify:album:1VFh3z9dS4ilwogrGTyZOU",
+               "artists": [
+                           {
+                           "name": "Various Artists"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "A Punk Tribute To Metallica",
+               "popularity": "0.34",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "803680208854"
+                                }
+                                ],
+               "href": "spotify:album:4dmeCsdDGQR0bXNml2YwYI",
+               "artists": [
+                           {
+                           "name": "Various Artists"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "The Piano Tribute to Metallica: Bite the Ivory",
+               "popularity": "0.34",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "027297891524"
+                                }
+                                ],
+               "href": "spotify:album:7hgZUQ1euwi5EOKicY6PpZ",
+               "artists": [
+                           {
+                           "href": "spotify:artist:2cx3OGBtTGcQ9jCA12Nv7c",
+                           "name": "Vitamin Piano Series"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Fade To Bluegrass Volume II: The Bluegrass Tribute to Metallica Featuring Iron Horse",
+               "popularity": "0.36",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "027297895027"
+                                }
+                                ],
+               "href": "spotify:album:0I6UJIGBdWzmoWRZzNO9JE",
+               "artists": [
+                           {
+                           "href": "spotify:artist:6AEIKVwB27miPI3uJxM4Dw",
+                           "name": "Pickin' On Series"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Piano Tribute to Metallica",
+               "popularity": "0.3",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "707541963091"
+                                }
+                                ],
+               "href": "spotify:album:6OtsQgvXFyumBVB0ghsCh6",
+               "artists": [
+                           {
+                           "href": "spotify:artist:4Xx6QMLTWppMwdABkN0Afj",
+                           "name": "Piano Tribute Players"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Renditions Of Metallica: The Black Lounge",
+               "popularity": "0.32",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "829410398572"
+                                }
+                                ],
+               "href": "spotify:album:6aJrlQ8NCkmGvWwLQz1rvo",
+               "artists": [
+                           {
+                           "href": "spotify:artist:6qAwX8gXIQD5zZOTQiY9gm",
+                           "name": "Buddha Lounge"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "The Blackest Box - The Ultimate Metallica Tribute",
+               "popularity": "0.32",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "829410830775"
+                                }
+                                ],
+               "href": "spotify:album:5Gz6RucYs32IXIAlPIo3gF",
+               "artists": [
+                           {
+                           "name": "Various Artists"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "The Celtic Tribute to Metallica",
+               "popularity": "0.3",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "027297949928"
+                                }
+                                ],
+               "href": "spotify:album:2VObShKC5zcFnLuiGSVKXt",
+               "artists": [
+                           {
+                           "href": "spotify:artist:2We2PIU3bNZRcDSv8mW0Ml",
+                           "name": "CMH World"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Metallic Assault - A Tribute to Metallica",
+               "popularity": "0.29",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "803680099254"
+                                }
+                                ],
+               "href": "spotify:album:0F28S70o9W2yQlKv5XBfEG",
+               "artists": [
+                           {
+                           "name": "Various Artists"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "A Metal Tribute To Metallica",
+               "popularity": "0.28",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "829410613576"
+                                }
+                                ],
+               "href": "spotify:album:2tZntH6rWPscT7rvNm05Oj",
+               "artists": [
+                           {
+                           "name": "Various Artists"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Whiskey In The Jar (In the Style of Metallica) [Performance Track with Demonstration Vocals]",
+               "popularity": "0.32",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "882387771731"
+                                }
+                                ],
+               "href": "spotify:album:4uGMNsuZ5QNVsxDOjZqcBP",
+               "artists": [
+                           {
+                           "href": "spotify:artist:0GQkTwFb7D3ePIpnxwYavf",
+                           "name": "Done Again"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Say Your Prayers, Little One - The String Quartet Tribute To Metallica",
+               "popularity": "0.29",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "027297872325"
+                                }
+                                ],
+               "href": "spotify:album:1uRF53nKweESdTKZqPxzdH",
+               "artists": [
+                           {
+                           "href": "spotify:artist:6MERXsiRbur2oJZFgYRDKz",
+                           "name": "Vitamin String Quartet"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Metallica Tribute EP - Monsters Of Rock",
+               "popularity": "0.26",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "881034829801"
+                                }
+                                ],
+               "href": "spotify:album:7lw7ZK4ZqcpEDN5Ug5d9p4",
+               "artists": [
+                           {
+                           "href": "spotify:artist:4SD45vTd9T4zjceRfR4iN2",
+                           "name": "Monsters Of Rock"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "The Flamenco Tribute to Metallica - EP",
+               "popularity": "0.25",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "027297132924"
+                                }
+                                ],
+               "href": "spotify:album:7rZjPkRJqmdvwRA6OPn7iJ",
+               "artists": [
+                           {
+                           "href": "spotify:artist:3YZQtNmPrTvg5TSYFb6rEn",
+                           "name": "Flamenco Tribute"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Tribute To Metallica: Fade To Black",
+               "popularity": "0.24",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "885686946039"
+                                }
+                                ],
+               "href": "spotify:album:1vqdN7CEUupoiQefHwF9HZ",
+               "artists": [
+                           {
+                           "href": "spotify:artist:1aUfn3B8x4PF67MaJVAQny",
+                           "name": "Chords Of Chaos"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Overload 2: A Tribute to Metallica",
+               "popularity": "0.23",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "887845125316"
+                                }
+                                ],
+               "href": "spotify:album:6UMU8LcfAJQln8TdPizezi",
+               "artists": [
+                           {
+                           "name": "Various Artists"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "The Blackest Album a Tribute to Metallica",
+               "popularity": "0.24",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "886788792012"
+                                }
+                                ],
+               "href": "spotify:album:6tw0TBV7Iqp1Fu0c8b5Xae",
+               "artists": [
+                           {
+                           "name": "Various Artists"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CH CL CO CY CZ DE DK EC EE ES FI FR GB GR HK HR HU IE IS IT LI LT LU LV MC MT MY NL NO NZ PE PH PL PT PY RO SE SG SI SK TR TW UY"
+               }
+               },
+               {
+               "name": "Best Karaoke Metallica",
+               "popularity": "0.15",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "885686396698"
+                                }
+                                ],
+               "href": "spotify:album:6Ez5cb8yiyJqixXtyKpcUx",
+               "artists": [
+                           {
+                           "href": "spotify:artist:5Q425ignlWXiJIt59k09OT",
+                           "name": "Dj Dalebe"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "An Instrumental Salute To Metallica",
+               "popularity": "0.2",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "843436027759"
+                                }
+                                ],
+               "href": "spotify:album:0BfUOfkLGjLNzypGMa25pL",
+               "artists": [
+                           {
+                           "href": "spotify:artist:665ROznIfUXS6uvjwsN7BJ",
+                           "name": "Metal Militia"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Karaoke - Metallica",
+               "popularity": "0.09",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "886788262928"
+                                }
+                                ],
+               "href": "spotify:album:2mn7p5C4zZMYJLLFVmAYnT",
+               "artists": [
+                           {
+                           "href": "spotify:artist:6aLDS9oOXpit8wJTtueP8g",
+                           "name": "Ameritz - Karaoke"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "The Blackest Album 2: An Industrial Tribute To Metallica",
+               "popularity": "0.23",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "829410395861"
+                                }
+                                ],
+               "href": "spotify:album:1n3resIYvDMGwe66ASRGPg",
+               "artists": [
+                           {
+                           "name": "Various Artists"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "A Tribute to Metallica",
+               "popularity": "0.16",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "887396194786"
+                                }
+                                ],
+               "href": "spotify:album:7CPd3kf9EGyxL4IfpE093G",
+               "artists": [
+                           {
+                           "href": "spotify:artist:1aUfn3B8x4PF67MaJVAQny",
+                           "name": "Chords Of Chaos"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "The Scorched Earth Orchestra Plays Metallica: Master Of Puppets - The Orchestral Tribute",
+               "popularity": "0.23",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "027297914322"
+                                }
+                                ],
+               "href": "spotify:album:1X4kL66xwQWTH7sdvQm7Uz",
+               "artists": [
+                           {
+                           "href": "spotify:artist:0vDSoM2yD6EajmRG7or2iz",
+                           "name": "The Scorched Earth Orchestra"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Karaoke - Metallica",
+               "popularity": "0.02",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "886788938762"
+                                }
+                                ],
+               "href": "spotify:album:07K4BLYLpbPpWv4nKcBYdN",
+               "artists": [
+                           {
+                           "href": "spotify:artist:6aLDS9oOXpit8wJTtueP8g",
+                           "name": "Ameritz - Karaoke"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "The Very Best Of Metallica",
+               "popularity": "0.19",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "8718011346384"
+                                }
+                                ],
+               "href": "spotify:album:6a4pl5a5ccdJkJpQfj7r84",
+               "artists": [
+                           {
+                           "href": "spotify:artist:7rB4hzbbTjvLPXwh6uVxPI",
+                           "name": "Backing Force"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "An Instrumental Tribute To Metallica",
+               "popularity": "0.18",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "886788032095"
+                                }
+                                ],
+               "href": "spotify:album:3yyztzMNmaYwzpRVE0SDi3",
+               "artists": [
+                           {
+                           "href": "spotify:artist:6gMSUqyE3UpdD4PvHYhBNn",
+                           "name": "Heavy Metal Guitar Heroes"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "String Tribute to Metallica",
+               "popularity": "0.13",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "887158680304"
+                                }
+                                ],
+               "href": "spotify:album:36TjEen80zD7oNu5TNtB8e",
+               "artists": [
+                           {
+                           "href": "spotify:artist:648dUUIlz7RSeg3O8CbTat",
+                           "name": "Midnite String Quartet"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "The Blackest Album 4: An Industrial Tribute To Metallica",
+               "popularity": "0.21",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "803680177754"
+                                }
+                                ],
+               "href": "spotify:album:50OfDPABJMbcC8gRJKzP6w",
+               "artists": [
+                           {
+                           "name": "Various Artists"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "A Tribute To Metallica",
+               "popularity": "0.12",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "8718011367280"
+                                }
+                                ],
+               "href": "spotify:album:5uLQ8EoqJfiDPgKWvazvWT",
+               "artists": [
+                           {
+                           "href": "spotify:artist:1RpuWJbAggAtVUWRSFaouQ",
+                           "name": "Stainless"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "The Black Box a Tribute to Metallica",
+               "popularity": "0.18",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "886788714083"
+                                }
+                                ],
+               "href": "spotify:album:5A6r07UQcVCl9c1wQcPsgj",
+               "artists": [
+                           {
+                           "name": "Various Artists"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CH CL CO CY CZ DE DK EC EE ES FI FR GB GR HK HR HU IE IS IT LI LT LU LV MC MT MY NL NO NZ PE PH PL PT PY RO SE SG SI SK TR TW UY"
+               }
+               },
+               {
+               "name": "Some Kind of Clover (a quirky acoustic tribute to Metallica)",
+               "popularity": "0.18",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "5055400829060"
+                                },
+                                {
+                                "type": "upc",
+                                "id": "5055400829060"
+                                }
+                                ],
+               "href": "spotify:album:1LyvitUYXd14jBLrF6BCFU",
+               "artists": [
+                           {
+                           "href": "spotify:artist:60qiDDGBF1dy46KbGBoz5t",
+                           "name": "Rocketclover"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Karaoke Hits of Metallica",
+               "popularity": "0.02",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "3610152698658"
+                                }
+                                ],
+               "href": "spotify:album:5ibL5r4jJl04Mcpegrkpbe",
+               "artists": [
+                           {
+                           "href": "spotify:artist:2qY63AGaVZ3aMvdPmPKlV9",
+                           "name": "Sunfly Abraxa"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "A Tribute To Metallica",
+               "popularity": "0",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "7898103001351"
+                                }
+                                ],
+               "href": "spotify:album:2en6KRULyr49slrM2yoAI3",
+               "artists": [
+                           {
+                           "name": "Various Artists"
+                           }
+                           ],
+               "availability": {
+               "territories": "BR"
+               }
+               },
+               {
+               "name": "Overload: A Tribute to Metallica",
+               "popularity": "0.11",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "027297101227"
+                                }
+                                ],
+               "href": "spotify:album:6ln3CEFZQkiCyBp3O8MuXF",
+               "artists": [
+                           {
+                           "name": "Various Artists"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "The Karaoke Channel - In The Style Of Metallica - Vol. 1",
+               "popularity": "0.17",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "882387344317"
+                                }
+                                ],
+               "href": "spotify:album:3YZXo2MMtqEteR4Atom0et",
+               "artists": [
+                           {
+                           "href": "spotify:artist:5UloVKzUNJcjORzhhTWWiJ",
+                           "name": "The Karaoke Channel"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "And Christmas For All! The Holiday Tribute to Metallica",
+               "popularity": "0.16",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "027297946422"
+                                }
+                                ],
+               "href": "spotify:album:0z98Dj195JzBL6GgMx8g82",
+               "artists": [
+                           {
+                           "href": "spotify:artist:4r0nJrktgQ24avoDmxjjez",
+                           "name": "Santa Claws and the Naughty But Nice Orchestra"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "The String Tribute To Metallica (Cover Versions)",
+               "popularity": "0.12",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "884385493059"
+                                }
+                                ],
+               "href": "spotify:album:68Wlp8Bh7gG0GqJnnDdwvo",
+               "artists": [
+                           {
+                           "href": "spotify:artist:0HcUxoHeFVuEiwYmQ2Www7",
+                           "name": "Rose Drucker, Nadine Megill, Katherine M. Jensik, Daniel Dona, Keith Cornella"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Sing Like Metallica (Karaoke Version)",
+               "popularity": "0.05",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "4250527420669"
+                                }
+                                ],
+               "href": "spotify:album:2geSmHCsKE1ullLs5LG9kH",
+               "artists": [
+                           {
+                           "href": "spotify:artist:2FLbBFuqtJpL7BC8AngquX",
+                           "name": "La-Le-Lu"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "The Blackest Album 2 a Tribute to Metallica",
+               "popularity": "0.1",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "886788792029"
+                                }
+                                ],
+               "href": "spotify:album:68PWeNV6CxOceuUldRw2YP",
+               "artists": [
+                           {
+                           "name": "Various Artists"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CH CL CO CY CZ DE DK EC EE ES FI FR GB GR HK HR HU IE IS IT LI LT LU LV MC MT MY NL NO NZ PE PH PL PT PY RO SE SG SI SK TR TW UY"
+               }
+               },
+               {
+               "name": "The Blackest Album 3 - An Industrial Tribute to Metallica",
+               "popularity": "0.14",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "803680177853"
+                                }
+                                ],
+               "href": "spotify:album:0LhzGMD4hqpFt15yG5M7iP",
+               "artists": [
+                           {
+                           "name": "Various Artists"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Karaoke (In the Style of Metallica)",
+               "popularity": "0.01",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "887845549945"
+                                }
+                                ],
+               "href": "spotify:album:5iIPdEPviAMh8M4PFNryNE",
+               "artists": [
+                           {
+                           "href": "spotify:artist:7ihHolAdjjtkPQNBV3dwwX",
+                           "name": "Ameritz Digital Karaoke"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "A Tribute to Metallica, Vol. 2",
+               "popularity": "0.01",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "888003226593"
+                                }
+                                ],
+               "href": "spotify:album:2AC15p79BUAB0fSEzw7K3E",
+               "artists": [
+                           {
+                           "href": "spotify:artist:6SXXIdmS9dNJRuf1mqZizy",
+                           "name": "Rick Mims Band"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "A Tribute to Metallica, Vol. 1",
+               "popularity": "0.01",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "888003226548"
+                                }
+                                ],
+               "href": "spotify:album:6Tv7bPDmLZ7RRuMH3drrgD",
+               "artists": [
+                           {
+                           "href": "spotify:artist:6SXXIdmS9dNJRuf1mqZizy",
+                           "name": "Rick Mims Band"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "A Tribute Metallica, Vol. 4",
+               "popularity": "0.04",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "888003226982"
+                                }
+                                ],
+               "href": "spotify:album:5makFU50ammVYWVrVpuW1E",
+               "artists": [
+                           {
+                           "href": "spotify:artist:6SXXIdmS9dNJRuf1mqZizy",
+                           "name": "Rick Mims Band"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "A Tribute to Metallica, Vol. 3",
+               "popularity": "0",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "888003226975"
+                                }
+                                ],
+               "href": "spotify:album:3n8Dtln5MCH9qFglWuADoA",
+               "artists": [
+                           {
+                           "href": "spotify:artist:6SXXIdmS9dNJRuf1mqZizy",
+                           "name": "Rick Mims Band"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "A Metal Tribute to Judas Priest, Black Sabbath, Metallica and More",
+               "popularity": "0.13",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "886788258136"
+                                }
+                                ],
+               "href": "spotify:album:3sm0WokZhkiPw7kiJ4oUCB",
+               "artists": [
+                           {
+                           "href": "spotify:artist:63mUiSpYZTSGIdZR4c4kkD",
+                           "name": "Déjà Vu"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Die, Die My Darling (In the Style of Metallica) [Performance Track with Demonstration Vocals]",
+               "popularity": "0.16",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "882387771779"
+                                }
+                                ],
+               "href": "spotify:album:6OcY4TKWVBED4Ouuwf6btA",
+               "artists": [
+                           {
+                           "href": "spotify:artist:0GQkTwFb7D3ePIpnxwYavf",
+                           "name": "Done Again"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "The Blackest Album 4 a Tribute to Metallica",
+               "popularity": "0.07",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "886788792067"
+                                }
+                                ],
+               "href": "spotify:album:4Hl5Lw1qqN8lPDdEHZ2WBn",
+               "artists": [
+                           {
+                           "name": "Various Artists"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CH CL CO CY CZ DE DK EC EE ES FI FR GB GR HK HR HU IE IS IT LI LT LU LV MC MT MY NL NO NZ PE PH PL PT PY RO SE SG SI SK TR TW UY"
+               }
+               },
+               {
+               "name": "Karaoke Hits Metallica, Vol. 2 (Karaoke Version)",
+               "popularity": "0.05",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "3610153101072"
+                                }
+                                ],
+               "href": "spotify:album:5VW6rCxEzemzriiXzAwA99",
+               "artists": [
+                           {
+                           "href": "spotify:artist:4iMzkXwBQHTYmyoR0teiDh",
+                           "name": "A-Type Player"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"
+               }
+               },
+               {
+               "name": "Karaoke Hits Metallica, Vol. 1 (Karaoke Version)",
+               "popularity": "0.06",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "3610153101089"
+                                }
+                                ],
+               "href": "spotify:album:3B2sucLDA6qVDDgR3UfxlM",
+               "artists": [
+                           {
+                           "href": "spotify:artist:4iMzkXwBQHTYmyoR0teiDh",
+                           "name": "A-Type Player"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "In the Style of Metallica (Karaoke - Professional Performance Tracks)",
+               "popularity": "0.11",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "815745012887"
+                                }
+                                ],
+               "href": "spotify:album:4WLlchrNOC4AkSJMWbGKJz",
+               "artists": [
+                           {
+                           "href": "spotify:artist:6IkKvcB77pnK30tY65DGGv",
+                           "name": "Karaoke Library"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Karaoke Quick Tracks - Sing the Hits of Metallica (Karaoke Version) (Originally Performed By Metallica)",
+               "popularity": "0",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "3610151210769"
+                                }
+                                ],
+               "href": "spotify:album:2rIME79aPHiJC8c71itO4G",
+               "artists": [
+                           {
+                           "href": "spotify:artist:39SxEZ3tqMcObAi3T9QJzB",
+                           "name": "Pro Choice Karaoke"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "Karaoke - In The Style Of Metallica - Vol. 1",
+               "popularity": "0",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "882387319735"
+                                }
+                                ],
+               "href": "spotify:album:0RVwzJguqDCrij3kzUYFTQ",
+               "artists": [
+                           {
+                           "href": "spotify:artist:5UloVKzUNJcjORzhhTWWiJ",
+                           "name": "The Karaoke Channel"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CA CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LI LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW US UY"
+               }
+               },
+               {
+               "name": "The Blackest Album 3 a Tribute to Metallica",
+               "popularity": "0.04",
+               "external-ids": [
+                                {
+                                "type": "upc",
+                                "id": "886788710559"
+                                }
+                                ],
+               "href": "spotify:album:0yG8rOod3IR6cN4wG8OC0w",
+               "artists": [
+                           {
+                           "name": "Various Artists"
+                           }
+                           ],
+               "availability": {
+               "territories": "AD AR AT AU BE BG BO BR CH CL CO CY CZ DE DK EC EE ES FI FR GB GR HK HR HU IE IS IT LI LT LU LV MC MT MY NL NO NZ PE PH PL PT PY RO SE SG SI SK TR TW US UY"
+               }
+               }
+               ]
+}
